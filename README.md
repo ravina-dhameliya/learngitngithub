@@ -1,6 +1,6 @@
 # learngitngithub
 
-welcome to gitngithub session on sunday
+welcome to gitngithub session
 
 # Comment
 

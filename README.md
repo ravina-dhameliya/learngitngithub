@@ -1,3 +1,3 @@
 # learngitngithub
 
-welcome to gitngithub session
+welcome to gitngithub session on sunday
